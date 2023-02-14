@@ -8,7 +8,7 @@
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=9d133df36b92&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
-[[RailwayApp Referral Badge](https://railway.app/brand/logotype-dark.svg)](https://railway.app?referralCode=QIv5AX)
+[!![RailwayApp Referral Badge](https://railway.app/brand/logotype-dark.svg)](https://railway.app?referralCode=QIv5AX)
 
 <!---
 sanjithacks/sanjithacks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
