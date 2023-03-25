@@ -6,7 +6,6 @@
 
 
 
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=9d133df36b92&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 
 
